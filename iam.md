@@ -29,4 +29,4 @@ IAM - Global Service there is no region to be selected
 
 <img width="1508" alt="image" src="https://github.com/abhijitxroy/aws/assets/161963891/47ac64c1-fba4-4d28-ad0d-f9dadaa3ea56">
 
-<img width="1508" alt="image" src="https://github.com/abhijitxroy/aws/assets/161963891/e6a20901-fcce-4fc7-a23b-f4acfd597bbb">
+<img width="1508" alt="image" src="https://github.com/abhijitxroy/aws/assets/161963891/663a4cd6-9e92-4d9f-b4db-48aefff201bb">
