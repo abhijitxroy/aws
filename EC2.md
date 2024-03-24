@@ -109,3 +109,8 @@ EBS Volume Types
 
 <img width="1506" alt="image" src="https://github.com/abhijitxroy/aws/assets/161963891/35fcf29c-e55a-4f70-b02c-c6616beb6314">
 
+EBS vs EFS
+<img width="1553" alt="image" src="https://github.com/abhijitxroy/aws/assets/161963891/bbe86868-105a-4fc8-855e-5d6d609c73cd">
+
+<img width="1553" alt="image" src="https://github.com/abhijitxroy/aws/assets/161963891/7b81994d-be09-40ea-8a80-837b177f6e34">
+
